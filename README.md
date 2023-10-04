@@ -40,9 +40,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-cdc&show_icons=true&locale=en&layout=compact" alt="harsh-cdc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh1629&show_icons=true&locale=en&layout=compact" alt="harsh1629" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-cdc&show_icons=true&locale=en" alt="harsh-cdc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh1629&show_icons=true&locale=en" alt="harsh1629" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-cdc&" alt="harsh-cdc" /></p>
+
 <a href="https://www.linkedin.com/in/harsh-raj-gupta-388234250/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Let's+connect+on+LinkedIn" alt="Typing SVG" /></a>
