@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine learning**
   
-- 🤝 I’m looking to collaborate on **web development projects.**
+- 🤝 I’m looking to collaborate on **web development projects ,** **AI/ML ,** and **data science projects.** 
 
 - 📫 Reach me at **hrg0316@gmail.com**
 
